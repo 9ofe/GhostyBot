@@ -14,3 +14,5 @@ To add GhostyBot to your server. Click [here](https://discordapp.com/oauth2/auth
 [GhostyBot Website](ghostybot.ga)
 
 
+#### Importent,
+The Source Code is private!
