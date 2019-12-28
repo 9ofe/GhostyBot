@@ -1,0 +1,18 @@
+{
+  "prefix": "r?",
+  "meaning_of_life": 42,
+  "blue": "0000FF",
+  "red": "b70000",
+  "orange": "ff6a00",
+  "green": "00ff26",
+  "purple": "d604cf",
+  "ownerID": "406323530301571072",
+  "logChannelID": "646695061458911243",
+  "alert": ":warning:",
+  "working": ":white_check_mark:",
+  "fail": ":x:",
+  "statuses": [
+    "r?help | ghostybot.ga",
+    "Discord's Cool | r?help"
+  ]
+}
